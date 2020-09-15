@@ -1,0 +1,59 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}estudiante{
+    margin: 10px auto;
+    width: 320px;
+    border-radius: 25px;
+    box-shadow: 0 16px 24px 0 rgba(0, 0, 0, 0.1);
+    background: rgb(34, 1, 1);
+}
+carnet::before{
+    content: "Carnet: ";
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+nombres::before{
+    content: "Nombre: ";
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+apellidos::before{
+    content: "Apellido: ";
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+grupoteorico::before{
+    content: "GT: ";
+}
+grupolaboratorio::before{
+    content: "GL: ";
+}
+ciclo,nombremateria,grupoteorico,grupolaboratorio{
+    color: white;
+    display: block;
+    text-align: left;
+}
+ciclo{
+    border: 1px solid;
+}
+
+nombremateria{
+    font-size: 24px;
+    background-color: rgba(94, 1, 1, 0.493);
+    margin-top: 5px;
+}
+ciclo{
+    margin-top: 10px;
+}
+carnet, nombres, apellidos{
+    color: white;
+    background-color: rgb(94, 3, 3);
+    display: block;
+    text-align: start;
+    height: 3vw;
+}
