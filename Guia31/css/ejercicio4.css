@@ -1,0 +1,42 @@
+/*
+	Fecha: 13/09/2020 18:46:00 ;
+*/
+
+temperatura{
+	background-color:  #00bfff;
+	margin-top: 10%;
+	text-align: center;
+}
+
+region {
+	display:inline-block;
+	margin: 25px;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+#region1{background-color:  #99c2ff;}
+
+#region2{ background-color:  #99ff99; }
+
+#region3{background-color:   #ffcc80;}
+
+region::before{content: attr(nombre); display: block; margin-bottom: 10px; font-weight: bold; text-align: center;}
+dias{display: block;}
+
+lunes,martes,miercoles,jueves,viernes,sabado,domingo{ display: block; margin-bottom: 5px;
+	background-color: #f2f2f2; text-align: left; padding: 5px; border-radius: 5px; border: solid black 1px;}
+
+lunes::before{content: "Lunes"; display: block; }
+martes::before{content: "Martes"; display: block;}
+miercoles::before{content: "Miércoles"; display: block;}
+jueves::before{content: "Jueves"; display: block;}
+viernes::before{content: "Viernes"; display: block;}
+sabado::before{content: "Sábado"; display: block;}
+domingo::before{content: "Domingo"; display: block;}
+
+minima{margin-right: 5px;}
+
+minima::before{content: "Mínima: "; display: inline-block; margin-right: 2px;}
+promedio::before{content: "Promedio: "; display: inline-block; margin-right: 2px;}
+alta::before{content: "Máxima: "; display: inline-block; margin-right: 2px;}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio5.css" ?>
+<!-- eje.xml  -->
+
+<raiz>
+	<bloque id="bloque1" descrip="CONTACTO">
+	<contacto>
+		<name>Carlos Peréz</name>
+		<phone>2295-6598</phone>
+		<celphone>7785-5298</celphone>
+		<location>San salvador, los laureles</location>
+		<email>carlos@gmail.com</email>
+	</contacto>
+	</bloque>
+	<bloque id="bloque1" descrip="CONTACTO">
+	<contacto>
+		<name>Juan Peréz</name>
+		<phone>2295-5754</phone>
+		<celphone>6857-5298</celphone>
+		<location>La libertad, los laureles</location>
+		<email>juan@gmail.com</email>
+	</contacto>
+	</bloque>
+	<bloque id="bloque1" descrip="CONTACTO">
+	<contacto>
+		<name>María Linares</name>
+		<phone>2125-8751</phone>
+		<celphone>7045-1011</celphone>
+		<location>San salvador, colonia escalón</location>
+		<email>maria@gmail.com</email>
+	</contacto>
+	</bloque>
+	<bloque id="bloque1" descrip="CONTACTO">
+	<contacto>
+		<name>Raquel Pelz</name>
+		<phone>2054-6598</phone>
+		<celphone>7854-5298</celphone>
+		<location>La Unión, Bella vista</location>
+		<email>raquel@gmail.com</email>
+	</contacto>
+	</bloque>
+</raiz>

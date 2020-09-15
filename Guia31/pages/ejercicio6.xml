@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="../css/ejercicio6.css" ?>
+<!-- ejercicio6.xml CV14005 -->
+<estudiante>
+    <carnet>AH15005</carnet>
+    <nombres>Juan Pérez</nombres>
+    <apellidos>Alvarado Hernández</apellidos>
+    <ciclo id="2-2020">
+        <materia codigo="COS-115">
+            <nombremateria>Comunicaciones I</nombremateria>
+            <grupoteorico gt="01">Lunes/Miércoles - 6:20-8:00</grupoteorico>
+            <grupolaboratorio gl="03">Martes - 8:05-9:45</grupolaboratorio>
+        </materia>
+        <materia codigo="SIO-115">
+            <nombremateria>Sistemas Operativos</nombremateria>
+            <grupoteorico gt="05">Martes/Viernes - 16:50-18:30</grupoteorico>
+            <grupolaboratorio gl="02">Lunes - 18:35-20:05</grupolaboratorio>
+        </materia>
+        <materia codigo="ANF-115">
+            <nombremateria>Análisis Financiero</nombremateria>
+            <grupoteorico gt="01">Lunes/Miercoles - 8:05-9:45</grupoteorico>
+            <grupolaboratorio gl="02">Martes - 9:50-11:30</grupolaboratorio>
+        </materia>
+    </ciclo>
+</estudiante>
