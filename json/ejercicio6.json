@@ -1,0 +1,46 @@
+{
+    "carnet": "AH15005",
+    "nombres": "Juan Pérez",
+    "apellidos": "Alvarado Hernández",
+    "ciclo": {
+       "@id": "2-2020",
+       "materia": [
+          {
+             "@codigo": "COS-115",
+             "nombremateria": "Comunicaciones I",
+             "grupoteorico": {
+                "@gt": "01",
+                "#text": "Lunes/Miércoles - 6:20-8:00"
+             },
+             "grupolaboratorio": {
+                "@gl": "03",
+                "#text": "Martes - 8:05-9:45"
+             }
+          },
+          {
+             "@codigo": "SIO-115",
+             "nombremateria": "Sistemas Operativos",
+             "grupoteorico": {
+                "@gt": "05",
+                "#text": "Martes/Viernes - 16:50-18:30"
+             },
+             "grupolaboratorio": {
+                "@gl": "02",
+                "#text": "Lunes - 18:35-20:05"
+             }
+          },
+          {
+             "@codigo": "ANF-115",
+             "nombremateria": "Análisis Financiero",
+             "grupoteorico": {
+                "@gt": "01",
+                "#text": "Lunes/Miercoles - 8:05-9:45"
+             },
+             "grupolaboratorio": {
+                "@gl": "02",
+                "#text": "Martes - 9:50-11:30"
+             }
+          }
+       ]
+    }
+ }
