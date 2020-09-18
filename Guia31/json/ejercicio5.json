@@ -1,0 +1,46 @@
+[
+    {
+       "@id": "bloque1",
+       "@descrip": "CONTACTO",
+       "contacto": {
+          "name": "Carlos Peréz",
+          "phone": "2295-6598",
+          "celphone": "7785-5298",
+          "location": "San salvador, los laureles",
+          "email": "carlos@gmail.com"
+       }
+    },
+    {
+       "@id": "bloque1",
+       "@descrip": "CONTACTO",
+       "contacto": {
+          "name": "Juan Peréz",
+          "phone": "2295-5754",
+          "celphone": "6857-5298",
+          "location": "La libertad, los laureles",
+          "email": "juan@gmail.com"
+       }
+    },
+    {
+       "@id": "bloque1",
+       "@descrip": "CONTACTO",
+       "contacto": {
+          "name": "María Linares",
+          "phone": "2125-8751",
+          "celphone": "7045-1011",
+          "location": "San salvador, colonia escalón",
+          "email": "maria@gmail.com"
+       }
+    },
+    {
+       "@id": "bloque1",
+       "@descrip": "CONTACTO",
+       "contacto": {
+          "name": "Raquel Pelz",
+          "phone": "2054-6598",
+          "celphone": "7854-5298",
+          "location": "La Unión, Bella vista",
+          "email": "raquel@gmail.com"
+       }
+    }
+ ]

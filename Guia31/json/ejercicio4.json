@@ -1,0 +1,131 @@
+[
+    {
+       "@id": "region1",
+       "@nombre": "Zona Occidental",
+       "@numSemana": "38",
+       "@fechaIngreso": "14/09/2020",
+       "dias": {
+          "lunes": {
+             "minima": "27",
+             "promedio": "28",
+             "alta": "29"
+          },
+          "martes": {
+             "minima": "27",
+             "promedio": "28",
+             "alta": "29"
+          },
+          "miercoles": {
+             "minima": "29",
+             "promedio": "30",
+             "alta": "31"
+          },
+          "jueves": {
+             "minima": "29",
+             "promedio": "31",
+             "alta": "33"
+          },
+          "viernes": {
+             "minima": "29",
+             "promedio": "30",
+             "alta": "31"
+          },
+          "sabado": {
+             "minima": "28",
+             "promedio": "29",
+             "alta": "30"
+          },
+          "domingo": {
+             "minima": "26",
+             "promedio": "27",
+             "alta": "28"
+          }
+       }
+    },
+    {
+       "@id": "region2",
+       "@nombre": "Zona Central",
+       "@numSemana": "38",
+       "@fechaIngreso": "14/09/2020",
+       "dias": {
+          "lunes": {
+             "minima": "27",
+             "promedio": "28",
+             "alta": "29"
+          },
+          "martes": {
+             "minima": "27",
+             "promedio": "28",
+             "alta": "29"
+          },
+          "miercoles": {
+             "minima": "29",
+             "promedio": "30",
+             "alta": "31"
+          },
+          "jueves": {
+             "minima": "29",
+             "promedio": "31",
+             "alta": "33"
+          },
+          "viernes": {
+             "minima": "29",
+             "promedio": "30",
+             "alta": "31"
+          },
+          "sabado": {
+             "minima": "28",
+             "promedio": "29",
+             "alta": "30"
+          },
+          "domingo": {
+             "minima": "26",
+             "promedio": "27",
+             "alta": "28"
+          }
+       }
+    },
+    {
+       "@id": "region3",
+       "@nombre": "Zona Oriental",
+       "@numSemana": "38",
+       "@fechaIngreso": "14/09/2020",
+       "dias": {
+          "lunes": {
+             "minima": "27",
+             "promedio": "28",
+             "alta": "29"
+          },
+          "martes": {
+             "minima": "27",
+             "promedio": "28",
+             "alta": "29"
+          },
+          "miercoles": {
+             "minima": "29",
+             "promedio": "30",
+             "alta": "31"
+          },
+          "jueves": {
+             "minima": "29",
+             "promedio": "31",
+             "alta": "33"
+          },
+          "viernes": {
+             "minima": "29",
+             "promedio": "30",
+             "alta": "31"
+          },
+          "sabado": {
+             "minima": "28",
+             "promedio": "29",
+             "alta": "30"
+          },
+          "domingo": {
+             "minima": "26",
+             "promedio": "27",
+             "alta": "28"
+          }
+       }
+    }
+ ]
