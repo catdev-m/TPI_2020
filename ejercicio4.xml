@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="./assets/ejercicio4.css" ?>
+<!-- ejercicio4.xml  CN14003 -->
+<temperatura>
+<region id="region1" nombre="Zona Occidental" numSemana="38" fechaIngreso="14/09/2020">
+	<dias>
+	<lunes>
+		<minima>27</minima>
+		<promedio>28</promedio>
+		<alta>29</alta>
+	</lunes>
+	<martes>
+		<minima>27</minima>
+		<promedio>28</promedio>
+		<alta>29</alta>
+	</martes>
+	<miercoles>
+		<minima>29</minima>
+		<promedio>30</promedio>
+		<alta>31</alta>
+	</miercoles>
+	<jueves>
+		<minima>29</minima>
+		<promedio>31</promedio>
+		<alta>33</alta>
+	</jueves>
+	<viernes>
+		<minima>29</minima>
+		<promedio>30</promedio>
+		<alta>31</alta>
+	</viernes>
+	<sabado>
+		<minima>28</minima>
+		<promedio>29</promedio>
+		<alta>30</alta>
+	</sabado>
+	<domingo>
+		<minima>26</minima>
+		<promedio>27</promedio>
+		<alta>28</alta>
+	</domingo>
+	</dias>
+</region>
+
+<region id="region2" nombre="Zona Central" numSemana="38" fechaIngreso="14/09/2020">
+	<dias>
+		<lunes>
+		<minima>27</minima>
+		<promedio>28</promedio>
+		<alta>29</alta>
+	</lunes>
+	<martes>
+		<minima>27</minima>
+		<promedio>28</promedio>
+		<alta>29</alta>
+	</martes>
+	<miercoles>
+		<minima>29</minima>
+		<promedio>30</promedio>
+		<alta>31</alta>
+	</miercoles>
+	<jueves>
+		<minima>29</minima>
+		<promedio>31</promedio>
+		<alta>33</alta>
+	</jueves>
+	<viernes>
+		<minima>29</minima>
+		<promedio>30</promedio>
+		<alta>31</alta>
+	</viernes>
+	<sabado>
+		<minima>28</minima>
+		<promedio>29</promedio>
+		<alta>30</alta>
+	</sabado>
+	<domingo>
+		<minima>26</minima>
+		<promedio>27</promedio>
+		<alta>28</alta>
+	</domingo>
+	</dias>
+</region>
+
+<region id="region3" nombre="Zona Oriental" numSemana="38" fechaIngreso="14/09/2020">
+	<dias>
+		<lunes>
+		<minima>27</minima>
+		<promedio>28</promedio>
+		<alta>29</alta>
+	</lunes>
+	<martes>
+		<minima>27</minima>
+		<promedio>28</promedio>
+		<alta>29</alta>
+	</martes>
+	<miercoles>
+		<minima>29</minima>
+		<promedio>30</promedio>
+		<alta>31</alta>
+	</miercoles>
+	<jueves>
+		<minima>29</minima>
+		<promedio>31</promedio>
+		<alta>33</alta>
+	</jueves>
+	<viernes>
+		<minima>29</minima>
+		<promedio>30</promedio>
+		<alta>31</alta>
+	</viernes>
+	<sabado>
+		<minima>28</minima>
+		<promedio>29</promedio>
+		<alta>30</alta>
+	</sabado>
+	<domingo>
+		<minima>26</minima>
+		<promedio>27</promedio>
+		<alta>28</alta>
+	</domingo>
+	</dias>
+</region>
+</temperatura>
